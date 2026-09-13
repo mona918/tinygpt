@@ -245,7 +245,7 @@ Text Generation
 
 👨‍💻 Author
 
-<Your Name>
+<sonakshi maharana>
 
 Computer Science Engineering
 NIT Rourkela
