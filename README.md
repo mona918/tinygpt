@@ -222,6 +222,7 @@ Possible extensions include:
 - Evaluate generated text using quantitative metrics
 
 ---
+live demo--> https://tinygpt.streamlit.app/
 
 📌 Key Concepts
 
