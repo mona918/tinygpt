@@ -246,8 +246,8 @@ Text Generation
 
 👨‍💻 Author
 
-<sonakshi maharana>
 
+sonakshi maharana
 Computer Science Engineering
 NIT Rourkela
 
